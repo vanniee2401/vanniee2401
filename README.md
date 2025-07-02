@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Pixel Pastel Dev UI 🌸</h1>
+<h1 align="center">🌸 Vanniee 🌸</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f9a8d4&height=200&section=header&text=Welcome!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
